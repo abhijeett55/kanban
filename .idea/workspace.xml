@@ -12,17 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="709830db-43ba-4eca-b527-e9ab2764da9e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/github/workflows/release.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/workflows/rust.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cli.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/config.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/cli.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kanban.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kanban.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +112,8 @@
       <updated>1753818109980</updated>
       <workItem from="1753818111550" duration="1258000" />
       <workItem from="1754244569183" duration="7609000" />
-      <workItem from="1754282726108" duration="498000" />
+      <workItem from="1754282726108" duration="655000" />
+      <workItem from="1754556863699" duration="1279000" />
     </task>
     <servers />
   </component>
