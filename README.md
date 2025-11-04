@@ -50,3 +50,8 @@ kanban delete 2
 
 ---
 <img width="1068" height="492" alt="image" src="https://github.com/user-attachments/assets/8c4d7440-ce36-4b59-ae99-75c000bfa525" />
+---
+
+<img width="714" height="165" alt="image" src="https://github.com/user-attachments/assets/48de7978-7f88-4cb8-a969-3767e03c915d" />
+
+
